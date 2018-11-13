@@ -1,0 +1,20 @@
+
+
+.web {
+    padding: 40px;
+    background-color: teal;
+    color: white;
+    font-size: 40px;
+}
+
+.bod {
+    background-color: #e3e3e3;
+    color: green;
+}
+
+.result {
+	
+	font-size: 30px;
+	font-weight:bold;
+	margin-top: 20px;
+}
